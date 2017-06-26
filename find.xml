@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*Re.java</mask>
+      <mask>*Res.java</mask>
+      <mask>*Reso.java</mask>
+      <mask>*Resou.java</mask>
+      <mask>*Resour.java</mask>
+      <mask>*Resourc.java</mask>
+      <mask>*Resource.java</mask>
+      <mask>*.[py|sh]</mask>
+      <mask>*.[py|sh</mask>
+      <mask>*.[py|s</mask>
+      <mask>*.[py|</mask>
+      <mask>*.[py</mask>
+      <mask>*.yml\</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.ja</mask>
+      <mask>*.jy</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
