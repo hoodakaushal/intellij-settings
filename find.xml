@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Resource.java" />
     <recentFileMasks>
-      <mask>*Re.java</mask>
-      <mask>*.[py|sh]</mask>
       <mask>*.[py|sh</mask>
       <mask>*.[py|s</mask>
       <mask>*.[py|</mask>
@@ -35,6 +32,8 @@
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
+      <mask>*</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
