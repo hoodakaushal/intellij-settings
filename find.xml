@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.[py|sh</mask>
-      <mask>*.[py|s</mask>
       <mask>*.[py|</mask>
       <mask>*.[py</mask>
       <mask>*.yml\</mask>
@@ -20,7 +18,6 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -34,6 +31,9 @@
       <mask>*Resource.java</mask>
       <mask>*</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
