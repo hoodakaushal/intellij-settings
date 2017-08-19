@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
@@ -29,13 +28,13 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*R.java</mask>
       <mask>*Re.java</mask>
       <mask>*Resou.java</mask>
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
