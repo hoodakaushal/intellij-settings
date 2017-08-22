@@ -31,7 +31,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
+    <library name="Python 2.7.13 (/usr/local/Cellar/python/2.7.13/bin) interpreter library">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
