@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
@@ -12,7 +13,6 @@
       <mask>*Res.java</mask>
       <mask>*Reso.java</mask>
       <mask>*.js</mask>
-      <mask>*.ja</mask>
       <mask>*S.java</mask>
       <mask>*Se.java</mask>
       <mask>*Ser.java</mask>
@@ -22,11 +22,6 @@
       <mask>*</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*R.java</mask>
       <mask>*Re.java</mask>
       <mask>*Resou.java</mask>
@@ -34,6 +29,12 @@
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
