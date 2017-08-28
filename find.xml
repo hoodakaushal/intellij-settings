@@ -20,21 +20,21 @@
       <mask>*Servic.java</mask>
       <mask>*Service.java</mask>
       <mask>*</mask>
-      <mask>*.sh</mask>
-      <mask>*.s</mask>
       <mask>*R.java</mask>
       <mask>*Re.java</mask>
       <mask>*Resou.java</mask>
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
