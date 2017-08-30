@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.j2" />
     <recentFileMasks>
-      <mask>*.yam</mask>
       <mask>*.yaml</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
@@ -26,15 +26,16 @@
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
-      <mask>*.p</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.j2</mask>
     </recentFileMasks>
   </component>
 </application>
