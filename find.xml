@@ -5,11 +5,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.yaml</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*Res.java</mask>
       <mask>*Reso.java</mask>
       <mask>*.js</mask>
       <mask>*S.java</mask>
@@ -29,12 +24,17 @@
       <mask>*.s</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j2</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.in</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
