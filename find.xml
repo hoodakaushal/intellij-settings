@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.allocations" />
     <recentFileMasks>
-      <mask>*Service.java</mask>
-      <mask>*</mask>
-      <mask>*R.java</mask>
       <mask>*Re.java</mask>
       <mask>*Resou.java</mask>
       <mask>*Resour.java</mask>
@@ -25,17 +22,20 @@
       <mask>*.ini</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
+      <mask>*.allocation</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.a</mask>
       <mask>*.al</mask>
       <mask>*.all</mask>
+      <mask>*.allo</mask>
       <mask>*.alloc</mask>
-      <mask>*.allocation</mask>
+      <mask>*.alloca</mask>
+      <mask>*.allocat</mask>
       <mask>*.allocations</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
