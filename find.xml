@@ -4,10 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.j2</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
@@ -17,7 +15,6 @@
       <mask>*.i</mask>
       <mask>*.allocation</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.a</mask>
       <mask>*.al</mask>
       <mask>*.all</mask>
@@ -35,6 +32,10 @@
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
       <mask>*.java</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
