@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.ini</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
       <mask>*.allocation</mask>
-      <mask>*.j</mask>
       <mask>*.a</mask>
       <mask>*.al</mask>
       <mask>*.all</mask>
@@ -32,7 +32,10 @@
       <mask>*.s</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
+      <mask>)</mask>
+      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
