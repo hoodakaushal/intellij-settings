@@ -1,17 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.y</mask>
       <mask>*.ini</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
@@ -24,7 +20,6 @@
       <mask>*.alloca</mask>
       <mask>*.allocat</mask>
       <mask>*.allocations</mask>
-      <mask>*.ja</mask>
       <mask>*R.java</mask>
       <mask>*Res.java</mask>
       <mask>*Reso.java</mask>
@@ -33,14 +28,16 @@
       <mask>*Resource.java</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>)</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.jp</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
