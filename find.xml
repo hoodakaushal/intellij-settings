@@ -28,13 +28,13 @@
       <mask>*.ja</mask>
       <mask>*.jp</mask>
       <mask>*.j</mask>
-      <mask>*.ini</mask>
-      <mask>*.in</mask>
       <mask>*.i</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.in</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
