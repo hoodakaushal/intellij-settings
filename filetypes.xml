@@ -4,6 +4,7 @@
       <mapping ext="fbs" type="Flatbuffers file" />
       <mapping pattern="spocs_list_to_process.tsv" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
