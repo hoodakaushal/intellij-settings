@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="File '.../broker/src/main/java/com/flipkart/vbroker/handlers/GetLagsRequestHandler.java - [broker_main]'" />
+    <option name="defaultScopeName" value="File '.../broker/src/main/java/com/flipkart/vbroker/handlers/GetLagsRequestHandler.java - [broker_main]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="File '.../broker/src/main/java/com/flipkart/vbroker/handlers/GetLagsRequestHandler.java - [broker_main]'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.allocat</mask>
