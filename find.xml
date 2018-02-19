@@ -4,10 +4,8 @@
     <option name="defaultScopeName" value="Current File" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.allo</mask>
-      <mask>*.alloc</mask>
-      <mask>*.alloca</mask>
       <mask>*.allocat</mask>
       <mask>*.allocations</mask>
       <mask>*R.java</mask>
@@ -25,16 +23,19 @@
       <mask>*.ini</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
-      <mask>*.pyth</mask>
-      <mask>*.pytho</mask>
       <mask>*.python</mask>
+      <mask>*.pytho</mask>
+      <mask>*.pyth</mask>
+      <mask>*.pyt</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.jva</mask>
+      <mask>*.jv</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
