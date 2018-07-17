@@ -14,9 +14,9 @@
     <mask>*.mxml</mask>
     <mask>*Test.java</mask>
     <mask>*.yml</mask>
-    <mask>*.j2</mask>
     <mask>*.py</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.j2</mask>
   </component>
 </application>
