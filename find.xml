@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,5 +20,6 @@
     <mask>*.j2</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
