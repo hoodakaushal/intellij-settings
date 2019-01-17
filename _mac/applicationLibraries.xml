@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library">
       <CLASSES>
         <root url="file:///Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg" />
@@ -68,14 +75,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.12.6" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-library.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-compiler.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-reflect.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.12.6">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/scala/2.12.6/lib/scala-swing_2.12-2.0.0.jar!/" />
         <root url="jar:///usr/local/Cellar/scala/2.12.6/lib/scala-library.jar!/" />
