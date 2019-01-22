@@ -1,48 +1,28 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/-2125986627" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/-2125986627" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.13 (/usr/local/Cellar/python/2.7.13/bin) interpreter library">
+    <library name="Python 2.7 interpreter library">
       <CLASSES>
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-9.0.1-py2.7.egg" />
+        <root url="file:///usr/local/Cellar/protobuf/3.5.1/libexec/lib/python2.7/site-packages" />
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/348993582" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -51,16 +31,20 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-9.0.1-py2.7.egg" />
+        <root url="file:///usr/local/Cellar/protobuf/3.5.1/libexec/lib/python2.7/site-packages" />
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/348993582" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -68,14 +52,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.12.6" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-library.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-compiler.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.6/lib/scala-reflect.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.12.6">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/scala/2.12.6/lib/scala-swing_2.12-2.0.0.jar!/" />
         <root url="jar:///usr/local/Cellar/scala/2.12.6/lib/scala-library.jar!/" />

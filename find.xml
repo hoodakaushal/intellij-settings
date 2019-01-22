@@ -13,6 +13,13 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*Test.java</mask>
+    <mask>*Processor.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*.j2</mask>
+    <mask>*.yml</mask>
+    <mask>*.csv</mask>
+    <mask>*.py</mask>
     <mask>*.java</mask>
   </component>
 </application>
