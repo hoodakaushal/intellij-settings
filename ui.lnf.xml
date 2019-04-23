@@ -1,4 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4024" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
