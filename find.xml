@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +14,12 @@
     <mask>*.mxml</mask>
     <mask>*Test.java</mask>
     <mask>*Processor.java</mask>
-    <mask>*.gradle</mask>
-    <mask>*.j2</mask>
     <mask>*.csv</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*.j2</mask>
     <mask>*.yml</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
