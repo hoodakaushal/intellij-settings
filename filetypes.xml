@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="spocs_list_to_process.tsv" type="PLAIN_TEXT" />
       <mapping pattern="pseudo_delete.py" type="PLAIN_TEXT" />
+      <mapping pattern="BCP_Bridging.puml" type="PLAIN_TEXT" />
       <mapping pattern="to_purge_old" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
