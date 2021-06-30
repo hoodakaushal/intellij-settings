@@ -1,17 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="spocs_list_to_process.tsv" type="PLAIN_TEXT" />
-      <mapping pattern="pseudo_delete.py" type="PLAIN_TEXT" />
-      <mapping pattern="BCP_Bridging.puml" type="PLAIN_TEXT" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="to_purge_old" type="PLAIN_TEXT" />
+      <mapping pattern="spocs_list_to_process.tsv" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping pattern="BCP_Bridging.puml" type="PLAIN_TEXT" />
+      <mapping pattern="pseudo_delete.py" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="fbs" type="Flatbuffers file" />
+      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
