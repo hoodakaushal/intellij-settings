@@ -20,9 +20,9 @@
     <mask>all.yml</mask>
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>requestOtp.html</mask>
+    <mask>*.java</mask>
     <mask>*Test.java</mask>
   </component>
 </application>
