@@ -21,5 +21,12 @@
       <jdbc-url>jdbc:postgresql://preprod-ssl.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/cerberus2</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="postgres@prod-cipher-db-replica-logical.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com" read-only="true" uuid="cbc99de3-fd62-42c6-b10d-56182b44892d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-cipher-db-replica-logical.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
