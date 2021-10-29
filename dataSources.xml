@@ -35,5 +35,19 @@
       <jdbc-url>jdbc:postgresql://prod-whitehall-db.c9j4c52ov8aa.eu-west-2.rds.amazonaws.com:5432/zetauser</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="alldb-preprod.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com" uuid="066d35da-96ed-4178-9dd3-c941a5fa0fa4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://alldb-preprod.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/cerberus_oauth</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="cerberus_oauth@10.19.2.131 (prod)" uuid="b46b9d65-8c96-48cc-a34c-9a163b35a1b1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.19.2.131:5538/cerberus_oauth</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
