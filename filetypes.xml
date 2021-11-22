@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="*.4__scopes_fkey_on_delete_cascade.sql" type="PLAIN_TEXT" />
       <mapping pattern="to_purge_old" type="PLAIN_TEXT" />
       <mapping pattern="BCP_Bridging.puml" type="PLAIN_TEXT" />
       <mapping pattern="pseudo_delete.py" type="PLAIN_TEXT" />
