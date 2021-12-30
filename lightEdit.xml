@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///additional" />
+        <option value="file:///info:" />
+        <option value="file:///additional" />
+        <option value="file:///info:" />
+      </list>
+    </option>
+  </component>
+</application>
