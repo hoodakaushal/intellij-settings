@@ -13,4 +13,12 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bktodo\b.*" />
+    <filter name="Kaushal">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
