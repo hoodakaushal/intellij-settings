@@ -1,0 +1,60 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@localhost" uuid="4a1e1f8d-9fff-49fb-bd6f-e989bffc688e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="StagingDB" uuid="ed3356fa-fa5b-4d89-9107-2d41d74bf0b1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stage-postgresql-db.cr8nt59zw49b.ap-south-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="preprod-ssl.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com" uuid="6d284b42-272b-4454-9faf-cd9624d3fe07">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://preprod-ssl.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/cerberus2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="(ProdRO) postgres@prod-cipher-db-replica-logical.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com" read-only="true" uuid="cbc99de3-fd62-42c6-b10d-56182b44892d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-cipher-db-replica-logical.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="(SodexUK) zetauser@prod-whitehall-db.c9j4c52ov8aa.eu-west-2.rds.amazonaws.com" uuid="608b49ca-6370-4f12-8229-6772ab5490e9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-whitehall-db.c9j4c52ov8aa.eu-west-2.rds.amazonaws.com:5432/zetauser</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="alldb-preprod.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com" uuid="066d35da-96ed-4178-9dd3-c941a5fa0fa4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://alldb-preprod.c8enwqlkg9hw.ap-south-1.rds.amazonaws.com:5432/cerberus_oauth</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="cerberus_oauth@10.19.2.131 (prod)" uuid="b46b9d65-8c96-48cc-a34c-9a163b35a1b1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.19.2.131:5538/cerberus_oauth</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="axon-stage" uuid="1507dd1f-6d3f-4375-a1e2-f258df77319a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://aws-axon-stage-ohio-postgres-common-01.cffxefx4xpmi.us-east-2.rds.amazonaws.com:5432/cerberus_oauth</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
