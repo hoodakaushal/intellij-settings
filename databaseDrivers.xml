@@ -1,0 +1,21 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="db2" name="DB2 (LUW)" />
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" />
+    <driver id="derby.embedded" name="Derby (Embedded)" />
+    <driver id="derby.remote" name="Derby (Remote)" />
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" />
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" />
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
+    </driver>
+    <driver id="mysql" name="MySQL">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.40" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" />
+    <driver id="sybase.ase" name="Sybase (Native)" />
+  </component>
+</application>
