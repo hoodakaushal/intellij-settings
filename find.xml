@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.Java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -28,5 +29,6 @@
     <mask>*.properties</mask>
     <mask>*test.Java</mask>
     <mask>*odule.Java</mask>
+    <mask>*.Java</mask>
   </component>
 </application>
